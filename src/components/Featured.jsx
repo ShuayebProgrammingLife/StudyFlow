@@ -1,5 +1,5 @@
-import SectionHeader from "./sectionHeader";
-import FeaturedCard from "./FeaturedCard";
+import SectionHeader from "./shared/sectionHeader";
+import FeaturedCard from "./shared/FeaturedCard";
 import { GoAlertFill, GoArchive, GoGoal, GoTasklist } from "react-icons/go";
 
 const Featured = () => {
